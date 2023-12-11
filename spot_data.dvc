@@ -1,0 +1,6 @@
+outs:
+- md5: 17ef9126a7bd67e135e1a3129e89a2fe.dir
+  size: 179512722
+  nfiles: 18
+  hash: md5
+  path: spot_data
